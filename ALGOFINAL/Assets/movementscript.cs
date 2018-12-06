@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,7 +6,7 @@ public class movementscript : MonoBehaviour {
 	public float myspeed;
 	// Use this for initialization
 	void Start () {
-		myspeed = 50f;
+		myspeed = 10f;
 	}
 	
 	// Update is called once per frame
